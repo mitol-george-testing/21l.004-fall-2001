@@ -1,0 +1,33 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Humanities",
+      "Literature",
+      "Poetry"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Criticism"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "574de813-0133-dfd1-1f1f-74ababe0ad61"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Major Poets",
+  "course_description": "This subject follows a course of readings in lyric poetry in the English language, tracing the main lines of descent through literary periods from the Renaissance to the modern period and concentrating mostly on English rather than American examples.\n",
+  "department_numbers": [
+    "21L"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21L.004",
+  "learning_resource_types": [
+    "Written Assignments",
+    "Activity Assignments"
+  ],
+  "title": "Course Metadata"
+}
